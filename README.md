@@ -35,10 +35,21 @@ This **Advanced Excel project** creates an **interactive dashboard** to help use
 -  **Source**: Collected from **public databases & economic reports**.  
 -  **Size**: Includes data on **all New England States**.  
 -  **Key Variables:**  
-  - **Cost of Living Index**  
-  - **Median Income & Job Growth Rate**  
-  - **Crime Rates & Safety Index**  
-  - **Climate & Quality of Life Factors**  
+  - **Cost of Living Index**
+  - 
+    ![](https://github.com/Anuthama-Raghu/best-us-state-dashboard-excel/blob/main/Comparison_New%20england%20States.JPG)
+    
+  - **Median Income & Job Growth Rate**
+  - 
+    ![](https://github.com/Anuthama-Raghu/best-us-state-dashboard-excel/blob/main/Employment%20dashboard.JPG)
+    
+  - **Crime Rates & Safety Index**
+  - 
+    ![](https://github.com/Anuthama-Raghu/best-us-state-dashboard-excel/blob/main/Crime%20Dashboard.JPG)
+    
+  - **Climate & Quality of Life Factors**
+    
+    ![](https://github.com/Anuthama-Raghu/best-us-state-dashboard-excel/blob/main/Air%20Quality%20Index.JPG)
 
 ---
 
